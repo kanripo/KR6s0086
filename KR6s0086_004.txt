@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:54.354114
+#+DATE: 2015-08-31 00:08:55.354778
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2147
 #+PROPERTY: ID KR6s0086
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2147
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6s0086_T_000-0150a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0086_T_004-0172b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 眾經目錄卷第四¶
+眾經目錄卷第四¶
 ¶
 隋翻經沙門及學士等撰¶
 
-五分疑偽
-:PROPERTIES:
-:head: 五分疑偽(名雖似正義涉人造)
-:END:
-¶
+五分疑偽(名雖似正義涉人造)¶
 
 　合二百九部四百九十一卷
 <pb:KR6s0086_T_004-0172c>¶
@@ -119,7 +114,7 @@
   * 佛說法滅盡經一卷¶
   * 鉢記經一卷¶
   * 五濁惡世經一卷¶
-  * 佛說蒺䔧園經一卷¶
+  * 佛說蒺[卄/梨]園經一卷¶
   * 妙法蓮華天地變異經一卷¶
   * 五辛經一卷¶
   * 華嚴十惡經一卷¶
