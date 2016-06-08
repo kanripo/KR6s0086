@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:54.354114
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:37
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2147
 #+PROPERTY: ID KR6s0086
@@ -17,7 +17,7 @@
 ¶
 隋翻經沙門及學士等撰¶
 
-五分疑偽
+* 五分疑偽
 :PROPERTIES:
 :head: 五分疑偽(名雖似正義涉人造)
 :END:
